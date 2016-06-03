@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Recorded Light]]></title>
         <description><![CDATA[Recorded Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/recorded-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 20:26:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 20:33:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/recorded-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cce8dd98-2d3e-4c8b-a40b-cdba59e778af.jpg">]]></description>
+            <link>https://thegrid.ai/recorded-light/012c7144-66fb-4216-bb22-04172b7f3951/index.html</link>
+            <guid isPermaLink="false">012c7144-66fb-4216-bb22-04172b7f3951</guid>
+            <pubDate>Fri, 03 Jun 2016 20:32:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Records of light, captured and imagined.</p>]]></description>
-            <link>undefinedrecords-of-light-captured-and-imagined/index.html</link>
+            <link>https://thegrid.ai/recorded-light/records-of-light-captured-and-imagined/index.html</link>
             <guid isPermaLink="false">56c3c78d-d748-4046-ace2-f806c810898a</guid>
             <pubDate>Fri, 03 Jun 2016 20:26:15 GMT</pubDate>
         </item>
