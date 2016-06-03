@@ -2,6 +2,7 @@ name: Recorded Light
 favicon: null
 layout_spectrum: 0.6031554632354528
 typography_spectrum: 0.9781064963899553
+title: Recorded Light
 cta:
   domain: null
   bucket: null
